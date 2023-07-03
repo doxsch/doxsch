@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/doxsch?v=3)
+<!--![Profile views](https://gpvc.arturio.dev/doxsch?v=3) -->
+![Profile views](https://profile-counter.glitch.me/doxsch/count.svg)
 
 <!--
 **doxsch/doxsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
